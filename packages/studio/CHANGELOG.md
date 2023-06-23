@@ -1,5 +1,17 @@
 # @pandacss/studio
 
+## 0.4.1
+
+### Patch Changes
+
+- 3a87cff8: Fix color palette
+  - @pandacss/node@0.4.1
+  - @pandacss/config@0.4.1
+  - @pandacss/token-dictionary@0.4.1
+  - @pandacss/logger@0.4.1
+  - @pandacss/shared@0.4.1
+  - @pandacss/types@0.4.1
+
 ## 0.4.0
 
 ### Patch Changes

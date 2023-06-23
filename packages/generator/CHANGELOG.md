@@ -1,5 +1,16 @@
 # @pandacss/generator
 
+## 0.4.1
+
+### Patch Changes
+
+- @pandacss/core@0.4.1
+- @pandacss/token-dictionary@0.4.1
+- @pandacss/is-valid-prop@0.4.1
+- @pandacss/logger@0.4.1
+- @pandacss/shared@0.4.1
+- @pandacss/types@0.4.1
+
 ## 0.4.0
 
 ### Minor Changes

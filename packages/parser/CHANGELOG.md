@@ -1,5 +1,26 @@
 # @pandacss/parser
 
+## 0.4.1
+
+### Patch Changes
+
+- 30f41e01: Fix parsing of factory recipe with property access + object syntax, such as:
+
+  ```ts
+  const Input = styled.input({
+    base: {
+      color: 'blue.100',
+      bg: 'blue.900',
+    },
+  })
+  ```
+
+  - @pandacss/extractor@0.4.1
+  - @pandacss/is-valid-prop@0.4.1
+  - @pandacss/logger@0.4.1
+  - @pandacss/shared@0.4.1
+  - @pandacss/types@0.4.1
+
 ## 0.4.0
 
 ### Patch Changes

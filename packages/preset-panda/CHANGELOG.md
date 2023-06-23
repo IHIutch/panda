@@ -1,5 +1,12 @@
 # @pandacss/preset-panda
 
+## 0.4.1
+
+### Patch Changes
+
+- 3a87cff8: Fix color palette
+  - @pandacss/types@0.4.1
+
 ## 0.4.0
 
 ### Patch Changes
